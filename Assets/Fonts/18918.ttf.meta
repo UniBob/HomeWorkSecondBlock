@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3f4726a5a0c86404e8bb17fbee72d0ec
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Terminator Real NFI RUS
+  fontNames:
+  - Terminator Real NFI RUS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 86bc3487a0e548f45b379c7d35d657cc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
